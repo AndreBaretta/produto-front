@@ -2,6 +2,16 @@
 
 Este é o front-end do projeto de produtos da matéria de Programação de Aplicativos.
 
+## Tecnologias Usadas
+
+- Flutter
+
+## Pré-requisitos
+
+Antes de começar, você precisará ter instalado:
+
+ - Flutter
+
 ### Clonar e iniciar o Back-End
 
 Siga as instruções desse repositório e inicie o back-end:
