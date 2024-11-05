@@ -1,16 +1,22 @@
-# produto_front
+# Produto Front
 
-A new Flutter project.
+Este é o front-end do projeto de produtos da matéria de Programação de Aplicativos.
 
-## Getting Started
+### Clonar e iniciar o Back-End
 
-This project is a starting point for a Flutter application.
+Siga as instruções desse repositório e inicie o back-end:
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/AndreBaretta/produto-api
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Iniciar o Front-End
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+git clone https://github.com/AndreBaretta/produto-front.git
+cd produto-front
+```
+
+Para executar o Flutter, execute o comando:
+```
+flutter run
+```
+
